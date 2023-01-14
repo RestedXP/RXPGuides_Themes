@@ -1,0 +1,15 @@
+## Interface: 30400
+## Interface-Mainline: 90205
+## Interface-Wrath: 30400
+## Interface-Classic: 11403
+
+## Title: RXPGuides Themes
+## Notes: Custom themes for RXPGuides
+## Author: RestedXP
+## Version: 1.0
+
+Setup.lua
+
+RoseGold/Theme.lua
+
+Load.lua

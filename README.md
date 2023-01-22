@@ -1,4 +1,4 @@
-# RestedXP_Themes
+# RXPGuides_Themes
 
 This addon adds additional themes to the [RestedXP addon](https://github.com/RestedXP/RXPGuides).
 

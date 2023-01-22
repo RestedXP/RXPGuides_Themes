@@ -1,0 +1,15 @@
+## Interface: 30401
+## Interface-Mainline: 100002
+## Interface-Wrath: 30401
+## Interface-Classic: 11403
+
+## Title: RestedXP Themes
+## Notes: Custom themes for RestedXP
+## Author: RestedXP
+## Version: @project-version@
+
+Setup.lua
+
+RoseGold/Theme.lua
+
+Load.lua
